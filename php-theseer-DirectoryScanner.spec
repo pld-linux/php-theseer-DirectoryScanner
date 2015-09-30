@@ -4,12 +4,12 @@
 %include	/usr/lib/rpm/macros.php
 Summary:	%{pearname} - A recursive directory scanner and filter
 Name:		php-theseer-DirectoryScanner
-Version:	1.3.0
+Version:	1.3.1
 Release:	1
 License:	BSD License
 Group:		Development/Languages/PHP
 Source0:	http://pear.netpirates.net/get/%{pearname}-%{version}.tgz
-# Source0-md5:	13830bdf0ce1cf84bca273b1fe28c683
+# Source0-md5:	ec5876436a62293193379dfe65441780
 URL:		http://pear.netpirates.net/package/DirectoryScanner/
 BuildRequires:	php-channel(pear.netpirates.net)
 BuildRequires:	php-pear-PEAR
