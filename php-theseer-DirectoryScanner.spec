@@ -1,7 +1,6 @@
 %define		status		stable
 %define		pearname	DirectoryScanner
 %define		php_min_version 5.3.1
-%include	/usr/lib/rpm/macros.php
 Summary:	%{pearname} - A recursive directory scanner and filter
 Name:		php-theseer-DirectoryScanner
 Version:	1.3.1
